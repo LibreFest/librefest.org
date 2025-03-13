@@ -32,5 +32,9 @@
 	},
 	"dependencies": {
 		"@inlang/paraglide-sveltekit": "^0.15.5"
+	},
+	"engines": {
+		"node": "22.14.0",
+		"npm": ">=11.1.0"
 	}
 }
