@@ -1,5 +1,5 @@
 <svelte:head>
-	<title>LibreFest...</title>
+	<title>LibreFest 2025</title>
 </svelte:head>
 
 <div class="container mx-auto flex-grow">
@@ -14,7 +14,12 @@
 					LibreFest наближава...
 				</h1>
 				<p class="mb-6 max-w-2xl font-light text-gray-500 md:text-lg lg:mb-10 lg:text-xl">
-					Очаквайте скоро най-новото събитие посветено на ... ами следете ни в сайта и ще разбереш 😉
+					Очаквайте скоро най-новото събитие посветено на ... ами следете ни в сайта и ще разбереш
+					😉
+				</p>
+				<p class="mb-6 max-w-2xl font-light text-gray-500 md:text-lg lg:mb-10 lg:text-xl">
+					Ако искаш да споделиш или разкажеш, драсни един
+					<a href="mailto:librefest.org@gmail.com" class="cursor underline">имейл</a>.
 				</p>
 			</div>
 		</div>
