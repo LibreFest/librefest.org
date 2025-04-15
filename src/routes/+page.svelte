@@ -19,7 +19,7 @@
 		property="og:description"
 		content="Unconference на чист въздух! LibreFest във В. Търново те кани да споделиш идеи и да дискутираш свободно в парк Ксилифор!"
 	/>
-	<meta property="og:image" content="https://librefest.org/images/librefest-cover.png" />
+	<meta property="og:image" content="https://librefest.org/librefest-cover.png" />
 
 	<meta property="twitter:card" content="summary_large_image" />
 	<meta property="twitter:url" content="https://metatags.io/" />
@@ -28,7 +28,7 @@
 		property="twitter:description"
 		content="Unconference на чист въздух! LibreFest във В. Търново те кани да споделиш идеи и да дискутираш свободно в парк Ксилифор!"
 	/>
-	<meta property="twitter:image" content="https://librefest.org/images/librefest-cover.png" />
+	<meta property="twitter:image" content="https://librefest.org/librefest-cover.png" />
 </svelte:head>
 
 <Header />
