@@ -23,11 +23,6 @@
 			</a>
 			<a
 				class="relative mx-4 cursor-pointer pb-0.5 after:absolute after:bottom-0 after:left-0 after:h-0.5 after:w-0 after:bg-black after:transition-all after:duration-500 hover:after:w-full"
-				href="#agenda"
-				>Програма
-			</a>
-			<a
-				class="relative mx-4 cursor-pointer pb-0.5 after:absolute after:bottom-0 after:left-0 after:h-0.5 after:w-0 after:bg-black after:transition-all after:duration-500 hover:after:w-full"
 				href="#map"
 				>Карта
 			</a>

@@ -1,6 +1,6 @@
-<footer class="container mx-auto mt-48 mb-2 px-3 py-16 text-gray-800">
+<footer class="container mx-auto mt-22 mb-2 px-3 py-16 text-gray-800">
 	<div class="-mx-3 flex flex-col lg:flex-row">
-		<div class="flex-2/6 px-3">
+		<div class="my-8 flex-2/6 px-3">
 			<h2 class="text-lg font-semibold">За LibreFest</h2>
 			<p class="mt-5">
 				LibreFest е фестивал на свободата да споделяш, учиш и създаваш! Формата комбинира лекции,
@@ -9,40 +9,30 @@
 			</p>
 		</div>
 
-		<div class=" flex-1 px-3">
+		<div class=" my-8 flex-1 px-3">
 			<h2 class="text-lg font-semibold">Присъедини се...</h2>
 			<p class="mt-5">
-				Discord линк
+				<a
+					class="relative cursor-pointer pb-0.5 after:absolute after:bottom-0 after:left-0 after:h-0.5 after:w-0 after:bg-black after:transition-all after:duration-500 hover:after:w-full"
+					href="https://discord.gg/jJkBsSdrJB">Discord общност</a
+				>
 			</p>
 		</div>
 
-		<div class="flex-1 px-3">
+		<div class="my-8 flex-1 px-3">
 			<h2 class="text-lg font-semibold">Полезни линкове</h2>
 			<ul class="mt-4 leading-loose">
 				<li>
 					<a
-						class="relative cursor-pointer pb-0.5 after:absolute after:bottom-0 after:left-0 after:h-0.5 after:w-0 after:bg-black after:transition-all after:duration-500 hover:after:w-full"
-						href="https://dir.bg">Примерен текст</a
-					>
-				</li>
-				<li>
-					<a
-						href="https://dir.bg"
+						href="https://berlincodeofconduct.org/"
 						class="relative cursor-pointer pb-0.5 after:absolute after:bottom-0 after:left-0 after:h-0.5 after:w-0 after:bg-black after:transition-all after:duration-500 hover:after:w-full"
 						>Кодекс на поведение</a
-					>
-				</li>
-				<li>
-					<a
-						href="https://dir.bg"
-						class="relative cursor-pointer pb-0.5 after:absolute after:bottom-0 after:left-0 after:h-0.5 after:w-0 after:bg-black after:transition-all after:duration-500 hover:after:w-full"
-						>Алабала</a
 					>
 				</li>
 			</ul>
 		</div>
 
-		<div class="flex-1 px-3">
+		<div class="my-8 flex-1 px-3">
 			<h3 class="text-lg font-semibold">В мрежата</h3>
 			<ul class="mt-4 leading-loose">
 				<li>

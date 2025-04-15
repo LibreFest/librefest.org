@@ -2,7 +2,7 @@
 	import EventNotes from '../img/EventInfo.svg';
 </script>
 
-<section class="pt-20 md:pt-40">
+<section class="pt-20 md:pt-15 md:pb-20">
 	<div class="container mx-auto px-8 lg:flex">
 		<div class="text-center lg:w-1/2 lg:text-left">
 			<h1 class="text-2xl leading-none font-bold lg:text-3xl xl:text-3xl">
