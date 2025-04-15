@@ -1,27 +1,38 @@
+<script>
+	import Footer from '../components/Footer.svelte';
+	import Header from '../components/Header.svelte';
+	import Main from '../components/Main.svelte';
+</script>
+
 <svelte:head>
-	<title>LibreFest 2025</title>
+	<title>LibreFest 2025 | В.Търново, парк Ксилифор, 10-11 май</title>
+	<meta name="title" content="LibreFest 2025 | В.Търново, парк Ксилифор, 10-11 май" />
+	<meta
+		name="description"
+		content="Unconference на чист въздух! LibreFest във В. Търново те кани да споделиш идеи и да дискутираш свободно в парк Ксилифор!"
+	/>
+
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="https://librefest.org/" />
+	<meta property="og:title" content="LibreFest 2025 | В.Търново, парк Ксилифор, 10-11 май" />
+	<meta
+		property="og:description"
+		content="Unconference на чист въздух! LibreFest във В. Търново те кани да споделиш идеи и да дискутираш свободно в парк Ксилифор!"
+	/>
+	<meta property="og:image" content="https://librefest.org/images/librefest-cover.png" />
+
+	<meta property="twitter:card" content="summary_large_image" />
+	<meta property="twitter:url" content="https://metatags.io/" />
+	<meta property="twitter:title" content="LibreFest 2025 | В.Търново, парк Ксилифор, 10-11 май" />
+	<meta
+		property="twitter:description"
+		content="Unconference на чист въздух! LibreFest във В. Търново те кани да споделиш идеи и да дискутираш свободно в парк Ксилифор!"
+	/>
+	<meta property="twitter:image" content="https://librefest.org/images/librefest-cover.png" />
 </svelte:head>
 
-<div class="container mx-auto flex-grow">
-	<div class="mx-5 lg:mx-0">
-		<div
-			class="mx-auto grid max-w-screen-xl px-4 py-8 lg:grid-cols-12 lg:gap-8 lg:pt-12 lg:pb-16 xl:gap-0"
-		>
-			<div class="mr-auto place-self-center lg:col-span-7">
-				<h1
-					class="mb-6 max-w-2xl text-4xl leading-none font-extrabold tracking-tight md:text-5xl xl:text-6xl"
-				>
-					LibreFest наближава...
-				</h1>
-				<p class="mb-6 max-w-2xl font-light text-gray-500 md:text-lg lg:mb-10 lg:text-xl">
-					Очаквайте скоро най-новото събитие посветено на ... ами следете ни в сайта и ще разбереш
-					😉
-				</p>
-				<p class="mb-6 max-w-2xl font-light text-gray-500 md:text-lg lg:mb-10 lg:text-xl">
-					Ако искаш да споделиш или разкажеш, драсни един
-					<a href="mailto:librefest.org@gmail.com" class="cursor underline">имейл</a>.
-				</p>
-			</div>
-		</div>
-	</div>
-</div>
+<Header />
+
+<Main />
+
+<Footer />
