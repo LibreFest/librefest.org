@@ -22,7 +22,7 @@
 	<meta property="og:image" content="/images/librefest-cover.png" />
 
 	<meta property="twitter:card" content="summary_large_image" />
-	<meta property="twitter:url" content="https://metatags.io/" />
+	<meta property="twitter:url" content="https://librefest.org/" />
 	<meta property="twitter:title" content="LibreFest 2025 | В.Търново, парк Ксилифор, 10-11 май" />
 	<meta
 		property="twitter:description"
