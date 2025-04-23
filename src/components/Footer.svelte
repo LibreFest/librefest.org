@@ -14,7 +14,7 @@
 			<p class="mt-5">
 				<a
 					class="relative cursor-pointer pb-0.5 after:absolute after:bottom-0 after:left-0 after:h-0.5 after:w-0 after:bg-black after:transition-all after:duration-500 hover:after:w-full"
-					href="https://discord.gg/jJkBsSdrJB">Discord общност</a
+					href="https://discord.gg/6cF48tfV">Discord общност</a
 				>
 			</p>
 		</div>
@@ -24,7 +24,7 @@
 			<ul class="mt-4 leading-loose">
 				<li>
 					<a
-						href="https://berlincodeofconduct.org/"
+						href="https://berlincodeofconduct.org/bg/"
 						class="relative cursor-pointer pb-0.5 after:absolute after:bottom-0 after:left-0 after:h-0.5 after:w-0 after:bg-black after:transition-all after:duration-500 hover:after:w-full"
 						>Кодекс на поведение</a
 					>
